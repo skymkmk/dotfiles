@@ -1,0 +1,10 @@
+disabled: []
+enabled:
+  - id: llvm-vs-code-extensions.vscode-clangd
+    uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
+  - id: MS-CEINTL.vscode-language-pack-zh-hans
+    uuid: e4ee7751-6514-4731-9cdb-7580ffa9e70b
+  - id: vadimcn.vscode-lldb
+    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

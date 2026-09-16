@@ -1,0 +1,31 @@
+{
+    "diffEditor.codeLens": true,
+    "diffEditor.experimental.showMoves": true,
+    "diffEditor.experimental.useTrueInlineView": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.find.autoFindInSelection": "multiline",
+    "editor.fontFamily": "'Maple Mono', 'Symbols Nerd Font Mono', 思源黑体, monospace",
+    "editor.fontLigatures": "'cv03', 'cv06', 'cv07', 'cv40', 'cv66', 'ss03', 'ss08', 'ss09', 'ss10', 'ss11', 'zero'",
+    "editor.formatOnSave": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.size": "fit",
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [
+        80
+    ],
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.wordWrap": "on",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "security.workspace.trust.enabled": false,
+    "syncSettings.ignoredSettings": [
+        "debug.console.fontSize",
+        "editor.fontSize",
+        "terminal.integrated.fontSize"
+    ],
+    "window.autoDetectColorScheme": true,
+    "workbench.editor.wrapTabs": true,
+    "workbench.tree.renderIndentGuides": "always"
+}

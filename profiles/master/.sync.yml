@@ -1,0 +1,4 @@
+ignoredSettings:
+  - debug.console.fontSize
+  - editor.fontSize
+  - terminal.integrated.fontSize
